@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 Sascha Peilicke
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+
+    <string name="action">Aktionen</string>
+    <string name="account_icon_description">Accounticoon</string>
+    <string name="account_list_description">Herinner me aan verjaardagen, jubilea en andere evenementen van deze van mijn contacten:</string>
+    <string name="anniversaries">Jubilea</string>
+    <string name="app_name">Verjaardagskalender</string>
+    <string name="birthday_calendar_create">Bijwerken van je verjaardagskalender…</string>
+    <string name="birthdays">Verjaardagen</string>
+    <string name="birthdays_and_anniversaries">Verjaardagen en jubilea</string>
+    <string name="calendar">Kalender</string>
+    <string name="claim_one_title">Nooit</string>
+    <string name="claim_one_description">Weer een verjaardag vergeten? Zie de verjaardagen van al je sociale contacten in je Google Agenda.</string>
+    <string name="claim_two_title">Universeel</string>
+    <string name="claim_two_description">Ondersteunt Facebook, LinkedIn, Xing, Skype en alle ander apps die contacten met je apparaat synchroniseren.</string>
+    <string name="claim_three_title">Herinneringen</string>
+    <string name="claim_three_description">Schakel herinneringsalarmen in en kies welke contacten je wil zien. Je krijgt notificaties voor ze allemaal.</string>
+    <string name="done">Klaar</string>
+    <plurals name="event_anniversary_description_template">
+        <item quantity="one">%1$s viert %2$d jaar</item>
+        <item quantity="other">%1$s viert %2$d jaar</item>
+    </plurals>
+    <string name="event_anniversary_title_template">%1$s\s jubileum</string>
+    <plurals name="event_birthday_description_template">
+        <item quantity="one">%1$s was in %2$d geboren en wordt op deze dag %3$d jaar oud</item>
+        <item quantity="other">%1$s was in %2$d geboren en wordt op deze dag %3$d jaar oud</item>
+    </plurals>
+    <string name="event_birthday_title_template">%1$ss verjaardag</string>
+    <string name="event_custom_title_template">%2$s van %1$s</string>
+    <string name="event_other_title_template">%1$ss ander evenement</string>
+    <string name="help_and_feedback">Help &amp; terugkoppeling</string>
+    <string name="hide_app_icon">Appicoon verbergen</string>
+    <string name="hide_app_icon_enable">Je kan altijd het appicoon weer tonen via de systeeminstellingen van "Accounts".</string>
+    <string name="hide_app_icon_from_launcher">Appicoon in launcher verbergen</string>
+    <string name="launch_app">App starten</string>
+    <string name="miscellaneous">Verschillende</string>
+    <string name="next">Verder</string>
+    <string name="no_calendar_app">Het lijkt erop dat je geen kalenderapp hebt geïnstalleerd!</string>
+    <string name="notifications">Notificaties</string>
+    <string name="open_source_licenses">Opensourcelicenties</string>
+    <string name="pref_anniversaries_sync_description">Toon jubileaherinneringsevenementen</string>
+    <string name="pref_birthdays_sync_description">Toon verjaardagsherinneringsevenementen</string>
+    <string name="pref_calendar_color_title">Kalenderkleur</string>
+    <string name="pref_header_data_sync">Gevevens &amp; synchronisatie</string>
+    <string name="pref_other_events_sync_description">Toon herinneringsevenementen andere evenementen</string>
+    <string name="pref_other_events_sync_title">Andere evenementen</string>
+    <string name="pref_periodic_sync_frequency_title">Synchronisatiefrequentie</string>
+    <string name="pref_reminder_time_2_title">Herinner mij ook</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="settings">Instellingen</string>
+    <string name="skip">Overslaan</string>
+    <string name="social">Sociaal</string>
+    <string name="sources">Bronnen</string>
+    <string-array name="pref_reminder_time_titles">
+        <item>geheel niet</item>
+        <item>op de dag zelf</item>
+        <item>een dag van te voren</item>
+        <item>twee dagen van te voren</item>
+        <item>een week van te voren</item>
+    </string-array>
+    <string-array name="pref_periodic_sync_frequency_titles">
+        <item>3 uur</item>
+        <item>6 uur</item>
+        <item>1 dag</item>
+    </string-array>
+    <string name="pref_reminder_time_1_title">Herinner mij</string>
+    <string name="version_info">Versie-info</string>
+
+</resources>
